@@ -458,7 +458,7 @@ img {
 }
 
 .form-footer-label-input::placeholder {
-    color #ffffff;
+    color: #ffffff;
     opacity: 1;
 }
 
